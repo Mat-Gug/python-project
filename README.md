@@ -1,4 +1,4 @@
-![warehouse_image](https://github.com/Mat-Gug/python-project/blob/main/warehouse.png)
+![warehouse_image](https://github.com/Mat-Gug/python_project/blob/master/warehouse.png)
 
 # Python project: Warehouse Management Software 
 
