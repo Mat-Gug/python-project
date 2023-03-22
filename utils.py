@@ -328,4 +328,4 @@ def help_message():
           +"\u2022 sale: records a sale made\n"
           +"\u2022 profits: shows the total profits\n"
           +"\u2022 help: shows the available commands\n"
-          +"\u2022 close: quit the program")
+          +"\u2022 close: quits the program")
