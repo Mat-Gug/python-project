@@ -2,6 +2,8 @@
 
 # Python project: Warehouse Management Software 
 
+Hello, thank you for being here! :smiley:
+
 This project consists in realizing a software for the management of a market warehouse. The software has the following features:
 
 - register new products, with name, quantity, sale price and purchase price;
@@ -19,4 +21,4 @@ The available commands are:
 - **help**: shows the available commands;  
 - **close**: quits the program. 
 
-The program creates two files, "warehouse.tsv" and "sales_file.tsv", which keep track of the products in the warehouse and the sales, respectively.<br> Furthermore, it properly validates the user input: for example, it checks that the quantity is an integer number and performs a case-insensitive comparison between the names of the products in the warehouse and the ones entered by the user.
+The program creates two files, `warehouse.tsv` and `sales_file.tsv`, which keep track of the products in the warehouse and the sales, respectively.<br> Furthermore, it properly validates the user input: for example, it checks that the quantity is an integer number and performs a case-insensitive comparison between the names of the products in the warehouse and the ones entered by the user.
