@@ -36,5 +36,5 @@ if __name__=="__main__":
         
         else:
             
-            print("Comando non valido")
+            print("Invalid command")
             help_message()
