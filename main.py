@@ -1,5 +1,6 @@
 from product import Product
 from utils import *
+from time import sleep
 
 
 if __name__=="__main__":
@@ -33,6 +34,7 @@ if __name__=="__main__":
         elif cmd=="close":
             
             print("Bye bye")
+            sleep(1)
         
         else:
             

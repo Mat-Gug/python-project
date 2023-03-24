@@ -119,7 +119,7 @@ def get_remaining_product_properties_from_warehouse(partial_product, file_name):
 
         for row in f_reader:
             try:
-                if row["PRODUCT"] == partial_product["PRODOTTO"]:
+                if row["PRODUCT"] == partial_product["PRODUCT"]:
                     for key in set(row.keys())-set(partial_product.keys()):
                         product[key] = row[key]
             except KeyError:
